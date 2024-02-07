@@ -1,4 +1,7 @@
 
 require("remaps")
 require("set")
-require("plugins")
+require("plugins.telescope")
+require("plugins.harpoon")
+require("plugins.tree-sitter")
+require("plugins.undotree")
