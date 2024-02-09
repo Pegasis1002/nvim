@@ -29,4 +29,5 @@ return {
 
   'saadparwaiz1/cmp_luasnip',
   'rafamadriz/friendly-snippets',
+  { "alexghergh/nvim-tmux-navigation" },
 }
